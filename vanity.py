@@ -6,14 +6,6 @@ from discord.ext.commands import CooldownMapping, BucketType
 import json
 import os
 
-cooldown = "<:cooldown:1435345346246086827>"
-deny = "<:deny:1436092256548425728>"
-approve = "<:yes:1436092257819426968>"
-warning = "<:warning:1436092253239119903>"
-folder = "<:folder:1436088708347461805>"
-premium = "<:premium:1436089520654123181>"
-perms = "<:perms:1436098036395802694>"
-
 DATA_FILE = "vanity_storage_unit.json"
 
 class Vanity(commands.Cog):
