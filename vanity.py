@@ -1,4 +1,4 @@
-# open sourced, made by @kidmanipulating on discord // jet
+# open sourced, made by @.j_e_t on discord // jet
 
 import discord
 from discord.ext import commands, tasks
